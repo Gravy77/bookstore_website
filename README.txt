@@ -2,7 +2,7 @@ Arvid Yuen
 2020-02-15
 
 This is an E-commerce website for a fictional space themed bookstore called 'Constellation Bookstore'.  
-It was originally created for a class assignment in July 2019.
+It was originally created for a class project in July 2019.
 
 To get a sense of the website, please view the screenshots in the repository.
 
