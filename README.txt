@@ -13,5 +13,13 @@ Cart page
 Checkout page
 Confirmation page
 
-The website is run using Tomcat server running on IntelliJ IDEA.
+Details:
+- Written using IntelliJ IDEA
+- Language: Java
+- UI: JSP/HTML/EL/JSTL/JavaScript
+- Security: SSL enabled
+- Database: MySQL
+- Connection: JDBC/Direct Access Object
+- Local Server: Tomcat
+
 If you need to view the original source code, please contact me via e-mail at: arvidyuen7@hotmail.com
