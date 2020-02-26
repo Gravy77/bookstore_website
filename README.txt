@@ -14,13 +14,12 @@ Checkout page
 Confirmation page
 
 Details:
-- Written using IntelliJ IDEA
+- Composed of Servlets and JSPs
 - Language: Java
-- UI: JSP/HTML/EL/JSTL/JavaScript
-- Security: SSL enabled
-- Database: MySQL
-- Connection: JDBC/Direct Access Object
-- Local Server: Tomcat
+- Implements HTML/CSS/EL/JSTL/JavaScript for the user interface
+- SSL enabled security
+- Connected to MySQL (local) database using JDBC and Direct Access Objects
+- Web accessible via Tomcat9
 
-The original source code is in the src.zip folder.  If you would like to know more about this project,
-please contact me at arvid7@vt.edu.
+The original source code is in the src.zip folder.  If you would like to know more about this website, 
+please contact me at arvidyuen7@hotmail.com.
