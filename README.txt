@@ -4,7 +4,7 @@ Arvid Yuen
 This is an E-commerce website for a fictional space themed bookstore called 'Constellation Bookstore'.  
 It was originally created for a class project in July 2019.
 
-To get a sense of the website, please view the screenshots in the repository.
+To get a sense of the website, please download and view the screenshots in screenshots.zip folder.
 
 The web pages are:
 Homepage
@@ -22,4 +22,5 @@ Details:
 - Connection: JDBC/Direct Access Object
 - Local Server: Tomcat
 
-If you need to view the original source code, please contact me via e-mail at: arvidyuen7@hotmail.com
+The original source code is in the src.zip folder.  If you would like to know more about this project,
+please contact me at arvid7@vt.edu.
