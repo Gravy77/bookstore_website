@@ -21,5 +21,4 @@ Details:
 - Connected to MySQL (local) database using JDBC and Direct Access Objects
 - Web accessible via Tomcat9
 
-The original source code is in the src.zip folder.  If you would like to know more about this website, 
-please contact me at arvidyuen7@hotmail.com.
+The original source code is in the src.zip folder.
